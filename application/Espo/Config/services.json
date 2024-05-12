@@ -1,0 +1,7 @@
+{
+    "services": {
+        "customContactService": {
+            "class": "Espo\\AutoCrm\\Services\\CustomContactService"
+        }
+    }
+}

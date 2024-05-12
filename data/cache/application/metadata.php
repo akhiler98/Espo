@@ -7664,7 +7664,7 @@ return [
       'controller' => 'controllers/record',
       'aclPortal' => 'crm:acl-portal/contact',
       'views' => [
-        'detail' => 'crm:views/contact/detail'
+        'detail' => 'custom:views/contact/detail'
       ],
       'recordViews' => [
         'detail' => 'crm:views/contact/record/detail',

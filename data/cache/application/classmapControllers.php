@@ -80,5 +80,6 @@ return [
   'Opportunity' => 'Espo\\Modules\\Crm\\Controllers\\Opportunity',
   'Target' => 'Espo\\Modules\\Crm\\Controllers\\Target',
   'TargetList' => 'Espo\\Modules\\Crm\\Controllers\\TargetList',
-  'Task' => 'Espo\\Modules\\Crm\\Controllers\\Task'
+  'Task' => 'Espo\\Modules\\Crm\\Controllers\\Task',
+  'Autocrm' => 'Espo\\Modules\\AutoCrm\\Controllers\\Autocrm'
 ];

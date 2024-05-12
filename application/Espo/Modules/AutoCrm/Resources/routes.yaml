@@ -1,0 +1,6 @@
+Autocrm:
+  actionFindContactsByEmail:
+    method: GET
+    path: Autocrm/action/FindContactsByEmail
+    controller: Espo\Modules\AutoCrm\Controllers\Autocrm
+    action: actionFindContactsByEmail

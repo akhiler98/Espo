@@ -7664,7 +7664,7 @@ return (object) [
       'controller' => 'controllers/record',
       'aclPortal' => 'crm:acl-portal/contact',
       'views' => (object) [
-        'detail' => 'crm:views/contact/detail'
+        'detail' => 'custom:views/contact/detail'
       ],
       'recordViews' => (object) [
         'detail' => 'crm:views/contact/record/detail',
